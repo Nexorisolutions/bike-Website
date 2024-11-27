@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Great+Vibes:wght@400;700&display=swap');
+
+:root{
+    --primary: #00B2A9;
+    --white: #fff;
+    --black: #000000;
+    --orange: #FF6600;
+    --Blue: #0066CC;
+    --Lime: #A7D100;
+    --Teal: #00B2A9;
+    --Dark: #333333;
+    --Charcoal: #2D2D2D;
+    --Gray: #E0E0E0;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.4s;
+    text-decoration: none;
+    list-style: none;
+}
+html{
+  box-sizing: border-box;
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  scroll-padding-top: 8.5rem;
+}
+html::-webkit-scrollbar {
+  width: 0.3rem;
+}
+
+html::-webkit-scrollbar-track {
+  background: #fff;
+}
+
+html::-webkit-scrollbar-thumb {
+  background: var(--primary);
+  border-radius: 5rem;
+}
+body {
+  font-size: 1.8rem;
+  background-image: url('../images/ground.jpg'); /* Replace with your background image */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: var(--black);
+  font-weight: 400;
+  overflow-x: hidden;
+  font-family: 'Pacifico'; /* Dancing Script as the primary font */
+}
+
+
+/****************** Navbar ********************/
+
+
+/****************** hero ******************/
+
+
+/****************** About Section ******************/
+
+
+/****************** CTA ******************/
+
+
+
+/****************** Services Section ******************/
+
+
+/****************** Portfolio Section ******************/
+
+
+/****************** General Banner Styling ******************/
+
+
+/****************** Process Section ******************/
+
+
+/****************** Blog Section ******************/
+
+
+/****************** Testimonial Section ******************/
+
+
+
+/****************** FAQ Section ******************/
+
+
+/****************** Progress Section ******************/
+
+
+/****************** Contact Section ******************/
+
+
+/****************** template Styling ******************/
+
+
+/****************** Footer Styling ******************/
+
+
